@@ -46,41 +46,56 @@
 %-------------------------------------------------------------------------------
 %                3rd party packages
 %-------------------------------------------------------------------------------
-% Needed to make fixed length table
+% Make fixed length table
 \RequirePackage{array}
-% Needed to handle list environment
+
+% Handle list environment
 \RequirePackage{enumitem}
-% Needed to handle text alignment
+
+% Handle text alignment
 \RequirePackage{ragged2e}
-% Needed to configure page layout
+
+% Configure page layout
 \RequirePackage{geometry}
-% Needed to make header & footer effeciently
+
+% Make header & footer effeciently
 \RequirePackage{fancyhdr}
-% Needed to manage colors
+
+% Manage colors
 \RequirePackage{xcolor}
-% Needed to use \ifxetex-\else-\fi statement
+
+% Use \ifxetex-\else-\fi statement
 \RequirePackage{ifxetex}
-% Needed to use \if-\then-\else statement
+
+% Use \if-\then-\else statement
 \RequirePackage{xifthen}
-% Needed to use a toolbox of programming tools
+
+% Use a toolbox of programming tools
 \RequirePackage{etoolbox}
-% Needed to change line spacing in specific environment
+
+% Change line spacing in specific environment
 \RequirePackage{setspace}
-% Needed to manage fonts
+
+% Manage fonts
 \RequirePackage[quiet]{fontspec}
+
 % To support LaTeX quoting style
 \defaultfontfeatures{Ligatures=TeX}
-% Needed to manage math fonts
+
+% Manage math fonts
 \RequirePackage{unicode-math}
-% Needed to use icons from font-awesome
-% (https://github.com/posquit0/latex-fontawesome)
+
+% Use icons from font-awesome
 \RequirePackage{fontawesome}
 \RequirePackage[default,opentype]{sourcesanspro}
+
 % Needed for the photo ID
 \RequirePackage[skins]{tcolorbox}
-% Needed to deal a paragraphs
+
+% Deal a paragraphs
 \RequirePackage{parskip}
-% Needed to deal hyperlink
+
+% Deal hyperlink
 \RequirePackage[hidelinks,unicode]{hyperref}
 \hypersetup{%
   pdftitle={},
@@ -125,26 +140,22 @@
 \definecolor{darkgray}{HTML}{333333}
 \definecolor{gray}{HTML}{5D5D5D}
 \definecolor{lightgray}{HTML}{999999}
+
 % Basic colors
 \definecolor{green}{HTML}{C2E15F}
 \definecolor{orange}{HTML}{FDA333}
 \definecolor{purple}{HTML}{D3A4F9}
 \definecolor{red}{HTML}{FB4485}
 \definecolor{blue}{HTML}{6CE0F1}
+
 % Text colors
 \definecolor{darktext}{HTML}{414141}
 \colorlet{text}{darkgray}
 \colorlet{graytext}{gray}
 \colorlet{lighttext}{lightgray}
+
 % Awesome colors
-\definecolor{awesome-emerald}{HTML}{00A388}
-\definecolor{awesome-skyblue}{HTML}{0395DE}
-\definecolor{awesome-red}{HTML}{DC3522}
-\definecolor{awesome-pink}{HTML}{EF4089}
-\definecolor{awesome-orange}{HTML}{FF6138}
-\definecolor{awesome-nephritis}{HTML}{27AE60}
-\definecolor{awesome-concrete}{HTML}{95A5A6}
-\definecolor{awesome-darknight}{HTML}{131A28}
+\definecolor{awesome-red}{HTML}{EC0237}
 \colorlet{awesome}{awesome-red}
 
 % Boolean value to switch section color highlighting
