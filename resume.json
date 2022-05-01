@@ -1,0 +1,141 @@
+{
+    "basics": {
+        "name": "Eduardo da Costa Correia",
+        "label": "Computer Engineering Student",
+        "image": "./photo.jpg",
+        "email": "educorreia932@gmail.com",
+        "phone": "(+351) 927 044 091",
+        "url": "https://educorreia932.dev",
+        "summary": "A summary of John Doe…",
+        "location": {
+            "city": "Porto",
+            "countryCode": "PT",
+            "region": "Portugal"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "Educorreia932",
+                "url": "https://github.com/Educorreia932"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Company",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "url": "https://sigarra.up.pt/feup/en/web_page.inicial",
+            "area": "Informatics and Computing Engineering",
+            "studyType": "Integrated Master's",
+            "startDate": "2018-09-18",
+            "endDate": "2023-08-01",
+            "score": "16"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Portuguese",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "description": "Description…",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "keywords": [
+                "HTML"
+            ],
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "url": "https://project.com/",
+            "roles": [
+                "Team Lead"
+            ],
+            "entity": "Entity",
+            "type": "application"
+        }
+    ]
+}

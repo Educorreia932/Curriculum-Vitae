@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"export": "resume export resume.pdf --theme caffeine"
+	},
+	"dependencies": {
+		"jsonresume-theme-caffeine": "^1.2.3",
+		"resume-cli": "^3.0.7"
+	}
+}
