@@ -2,11 +2,11 @@
     "basics": {
         "name": "Eduardo da Costa Correia",
         "label": "Computer Engineering Student",
-        "image": "./photo.jpg",
+        "image": "https://avatars.githubusercontent.com/u/44172778?v=4",
         "email": "educorreia932@gmail.com",
         "phone": "(+351) 927 044 091",
         "url": "https://educorreia932.dev",
-        "summary": "A summary of John Doe…",
+        "summary": "",
         "location": {
             "city": "Porto",
             "countryCode": "PT",
@@ -22,64 +22,45 @@
     },
     "work": [
         {
-            "name": "Company",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Started the company"
-            ]
+            "name": "Critical Manufacturing",
+            "position": "Summer Intern",
+            "url": "https://criticalmanufacturing.com/",
+            "startDate": "2021-07-14",
+            "endDate": "2021-09-14",
+            "summary": "Helped migrating and enhancing a considerable portfolio of auxiliary automation scripts that are used to monitor and maintain system health of several RedHat Linux machines."
+        },
+        {
+            "name": "Lusoinfo Multimédia S.A.",
+            "position": "Game Developer",
+            "url": "https://lusoinfo.com/",
+            "startDate": "2020-10-01",
+            "endDate": "2020-07-01",
+            "summary": "Converted several educational games developed in Adobe Flash to Unity WebGL."
+        },
+        {
+            "name": "INESC TEC",
+            "position": "Summer Intern",
+            "url": "https://www.inesctec.pt/",
+            "startDate": "2020-07-01",
+            "endDate": "2020-06-01",
+            "summary": "Developed a Flying Communications Node Controller Sensitive to Traffic."
         }
     ],
-    "volunteer": [
+    "affiliation": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Awarded 'Volunteer of the Month'"
-            ]
+            "name": "IEEE UP SB",
+            "position": ""
         }
     ],
     "education": [
         {
-            "institution": "University",
-            "url": "https://sigarra.up.pt/feup/en/web_page.inicial",
+            "institution": "FEUP (Faculty of Engineering of University of Porto)",
+            "url": "https://fe.up.pt",
             "area": "Informatics and Computing Engineering",
             "studyType": "Integrated Master's",
             "startDate": "2018-09-18",
             "endDate": "2023-08-01",
             "score": "16"
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Certificate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
         }
     ],
     "skills": [
@@ -101,41 +82,6 @@
         {
             "language": "English",
             "fluency": "Fluent speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": [
-                "Ferrets",
-                "Unicorns"
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Project",
-            "description": "Description…",
-            "highlights": [
-                "Won award at AIHacks 2016"
-            ],
-            "keywords": [
-                "HTML"
-            ],
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "url": "https://project.com/",
-            "roles": [
-                "Team Lead"
-            ],
-            "entity": "Entity",
-            "type": "application"
         }
     ]
 }

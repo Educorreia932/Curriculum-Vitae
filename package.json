@@ -1,9 +1,10 @@
 {
 	"scripts": {
-		"export": "resume export resume.pdf --theme caffeine"
+		"export": "resume export resume.pdf --theme eloquent"
 	},
 	"dependencies": {
 		"jsonresume-theme-caffeine": "^1.2.3",
+		"jsonresume-theme-eloquent": "^4.1.0",
 		"resume-cli": "^3.0.7"
 	}
 }
